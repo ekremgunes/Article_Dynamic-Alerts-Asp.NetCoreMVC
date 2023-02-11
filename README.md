@@ -1,9 +1,10 @@
 # How you can use Dynamic Alert in asp.net core MVC 
 
-> Look at the medium article : 
-[link]<a href=""></a>
+> Look at the explanation
 
+ Step by step explanation :![Medium article ](https://medium.com/@gunesekrem.com/how-you-can-use-dynamic-alert-in-asp-net-core-mvc-5144ce574b31)
 > Extension Method : 
+
 ```c#
 public static string ViewAlert(this Controller controller, AlertType alert = AlertType.Info, string alertMessage = "Info")
         {
