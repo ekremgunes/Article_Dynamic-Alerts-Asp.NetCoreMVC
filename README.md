@@ -26,3 +26,5 @@ public static string ViewAlert(this Controller controller, AlertType alert = Ale
             }
         }
 ```
+> Example View 
+<img src="/allMessages.png"/>
